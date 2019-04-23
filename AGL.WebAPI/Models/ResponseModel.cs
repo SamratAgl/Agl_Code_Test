@@ -7,5 +7,6 @@ namespace AGL.WebAPI.Models
 {
     public class ResponseModel
     {
+
     }
 }

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGL.WebAPI", "AGL.WebAPI\AGL.WebAPI.csproj", "{4F5FB51E-5F5F-4421-BDAE-736C6F260586}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AGL.WebAPI", "AGL.WebAPI\AGL.WebAPI.csproj", "{4F5FB51E-5F5F-4421-BDAE-736C6F260586}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGL.WebAPI.Test", "AGL.WebAPI.Test\AGL.WebAPI.Test.csproj", "{DFA0A1D0-2B89-4D0D-8215-E32E95829437}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGL.WebAPI.Tests", "AGL.WebAPI.Tests\AGL.WebAPI.Tests.csproj", "{C7761386-F0B0-4244-ABB0-B6155C849E04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{4F5FB51E-5F5F-4421-BDAE-736C6F260586}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F5FB51E-5F5F-4421-BDAE-736C6F260586}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F5FB51E-5F5F-4421-BDAE-736C6F260586}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DFA0A1D0-2B89-4D0D-8215-E32E95829437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DFA0A1D0-2B89-4D0D-8215-E32E95829437}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DFA0A1D0-2B89-4D0D-8215-E32E95829437}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DFA0A1D0-2B89-4D0D-8215-E32E95829437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7761386-F0B0-4244-ABB0-B6155C849E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7761386-F0B0-4244-ABB0-B6155C849E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7761386-F0B0-4244-ABB0-B6155C849E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7761386-F0B0-4244-ABB0-B6155C849E04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
