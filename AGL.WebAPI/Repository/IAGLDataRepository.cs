@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace AGL.WebAPI.Repository
 {
+    //Interface to GetPetDetails
     public interface IAGLDataRepository
     {
-        List<People> GetPeopleResponse();
+        List<People> GetPetDetails();
     }
 }
